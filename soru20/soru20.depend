@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586943553 source:c:\users\kerem yakutlu\desktop\codeblocks\soru20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
